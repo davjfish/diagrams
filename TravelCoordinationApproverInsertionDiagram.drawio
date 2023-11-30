@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T15:31:22.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="mBU2S1Nx8gSasiwleMiX" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T16:41:47.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="1NFI2xFEQQbSrLJgoYl9" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-22" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;User&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&amp;nbsp;Sector/Departmental Coordination&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Role&lt;/b&gt;:&amp;nbsp;NCR Travel Coordinators&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;Status&lt;/b&gt;: Complete&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;Status date&lt;/b&gt;: _________&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="920" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="2dVe8sMhS4PmmdCcYp6y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-23" target="2dVe8sMhS4PmmdCcYp6y-24">
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-26" value="We will also set &lt;br&gt;the status date &lt;br&gt;to NULL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-23" target="2dVe8sMhS4PmmdCcYp6y-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;User&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&amp;nbsp;Sector/Departmental Coordination&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Role&lt;/b&gt;:&amp;nbsp;NCR Travel Coordinators&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;Status&lt;/b&gt;: Complete&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;Status date&lt;/b&gt;: _________&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -91,14 +91,46 @@
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-24" target="2dVe8sMhS4PmmdCcYp6y-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2dVe8sMhS4PmmdCcYp6y-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;User&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&amp;nbsp;Arran McPherson&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Role&lt;/b&gt;:&amp;nbsp;ADM&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;Status&lt;/b&gt;: Queued&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;Status date&lt;/b&gt;: _________&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="1161" width="200" height="160" as="geometry" />
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;User&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&amp;nbsp;Arran McPherson&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Role&lt;/b&gt;:&amp;nbsp;ADM&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;Status&lt;/b&gt;: Queued&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Status date&lt;/b&gt;: _________&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="1150" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-32" value="SET STATUS DATE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-27" target="2dVe8sMhS4PmmdCcYp6y-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="830" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-19" target="2dVe8sMhS4PmmdCcYp6y-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-33" target="2dVe8sMhS4PmmdCcYp6y-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-33" value="Again, we look to the Trip Review for direction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="910" y="630" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-37" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-34" target="2dVe8sMhS4PmmdCcYp6y-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-40" value="Use the most&lt;br&gt;recent date" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-34" value="Do any&lt;br&gt;&amp;nbsp;of the Trip &lt;br&gt;Reviewers &lt;br&gt;preceding the &lt;br&gt;ADM have a&amp;nbsp;&lt;br&gt;status &lt;br&gt;date?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="390" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-36" target="TlhrCSe95SY9jLTqjl-a-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-36" value="Do nothing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="200" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-41" target="TlhrCSe95SY9jLTqjl-a-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-41" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;User&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&amp;nbsp;Sector/Departmental Coordination&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Role&lt;/b&gt;:&amp;nbsp;NCR Travel Coordinators&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;Status&lt;/b&gt;: **********&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;Status date&lt;/b&gt;: equal to most recent date of&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; non-ADM trip reviewers&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="390" width="240" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
