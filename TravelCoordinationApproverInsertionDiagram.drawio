@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T19:10:25.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="GnF2FJFJQB9cg7zZdKbF" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T19:29:38.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="f4CLLlQYjbc7qQxak-Cy" version="22.1.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -112,25 +112,28 @@
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-37" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-34" target="2dVe8sMhS4PmmdCcYp6y-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2dVe8sMhS4PmmdCcYp6y-40" value="Use the most&lt;br&gt;recent date" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-34" edge="1">
+        <mxCell id="2dVe8sMhS4PmmdCcYp6y-40" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jWvvlOGbaPdPFHYoXMaC-3" edge="1" target="jWvvlOGbaPdPFHYoXMaC-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jWvvlOGbaPdPFHYoXMaC-4" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-34" target="jWvvlOGbaPdPFHYoXMaC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-34" value="Do any&lt;br&gt;&amp;nbsp;of the Trip &lt;br&gt;Reviewers &lt;br&gt;preceding the &lt;br&gt;ADM have a&amp;nbsp;&lt;br&gt;status &lt;br&gt;date?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#FFF2CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="870" y="390" width="150" height="160" as="geometry" />
+          <mxGeometry x="990" y="310" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-36" target="TlhrCSe95SY9jLTqjl-a-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-36" value="Do nothing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="890" y="200" width="110" height="120" as="geometry" />
+          <mxGeometry x="1050" y="10" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2dVe8sMhS4PmmdCcYp6y-41" target="TlhrCSe95SY9jLTqjl-a-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2dVe8sMhS4PmmdCcYp6y-41" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;User&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&amp;nbsp;Sector/Departmental Coordination&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Role&lt;/b&gt;:&amp;nbsp;NCR Travel Coordinators&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;Status&lt;/b&gt;: **********&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;Status date&lt;/b&gt;: equal to most recent date of&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; non-ADM trip reviewers&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="500" y="390" width="240" height="170" as="geometry" />
+          <mxGeometry x="390" y="250" width="240" height="170" as="geometry" />
         </mxCell>
         <mxCell id="jWvvlOGbaPdPFHYoXMaC-1" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jWvvlOGbaPdPFHYoXMaC-0" target="2dVe8sMhS4PmmdCcYp6y-22">
           <mxGeometry relative="1" as="geometry" />
@@ -140,6 +143,18 @@
         </mxCell>
         <mxCell id="jWvvlOGbaPdPFHYoXMaC-0" value="Is the ADM &lt;br&gt;reviewer status&lt;br&gt;&amp;nbsp;set to&amp;nbsp;&lt;br&gt;&lt;b&gt;APPROVED &lt;br&gt;&lt;/b&gt;or&lt;br&gt;&lt;b&gt;&amp;nbsp;DENIED&lt;/b&gt;?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="730" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jWvvlOGbaPdPFHYoXMaC-5" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jWvvlOGbaPdPFHYoXMaC-3" target="2dVe8sMhS4PmmdCcYp6y-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jWvvlOGbaPdPFHYoXMaC-3" value="Is the status in &lt;br&gt;&lt;b&gt;DRAFT&lt;/b&gt;,&lt;b&gt; &lt;br&gt;QUEUED &lt;/b&gt;or&lt;b&gt; PENDING?&lt;br&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#FFF2CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="110" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jWvvlOGbaPdPFHYoXMaC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jWvvlOGbaPdPFHYoXMaC-7" target="2dVe8sMhS4PmmdCcYp6y-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jWvvlOGbaPdPFHYoXMaC-7" value="&lt;div&gt;Use the most&lt;/div&gt;&lt;div&gt;recent date from non-ADM users&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="260" width="80" height="93.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
