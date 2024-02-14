@@ -1,49 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T18:25:02.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="zYVMFmfZi7A8SMCp1YeQ" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T19:30:03.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="8r0TP-pkoWyof4TiLKoE" version="23.1.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="50" width="1070" height="1050" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="50" width="1070" height="1520" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="DM Apps - Inventory" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="1050" height="350" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="DM Apps - Inventory" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" width="1050" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-23" target="g9a6GDuGCAHzcp2UapaC-1" edge="1">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-23" target="g9a6GDuGCAHzcp2UapaC-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-23" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry x="30" y="80" width="60" height="50" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-23" value="START" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="40" y="120" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g9a6GDuGCAHzcp2UapaC-44" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="g9a6GDuGCAHzcp2UapaC-1" target="g9a6GDuGCAHzcp2UapaC-43">
+        <mxCell id="g9a6GDuGCAHzcp2UapaC-1" value="Data custodian drafts metadata record" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="200" y="125" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g9a6GDuGCAHzcp2UapaC-48" value="Data steward&amp;nbsp; receives&lt;br&gt;email notification" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="820" y="150" width="133" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gAICYdevF9UL-TdKvRgp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="g9a6GDuGCAHzcp2UapaC-50" target="g9a6GDuGCAHzcp2UapaC-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g9a6GDuGCAHzcp2UapaC-1" value="Data custodian creates metadata record" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="170" y="95" width="120" height="60" as="geometry" />
+        <mxCell id="g9a6GDuGCAHzcp2UapaC-50" value="Data custodian clicks on Flag for Publication" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="570" y="150" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="g9a6GDuGCAHzcp2UapaC-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="g9a6GDuGCAHzcp2UapaC-43" target="g9a6GDuGCAHzcp2UapaC-48">
+        <mxCell id="gAICYdevF9UL-TdKvRgp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="gAICYdevF9UL-TdKvRgp-5" target="gAICYdevF9UL-TdKvRgp-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g9a6GDuGCAHzcp2UapaC-43" value="Data custodian clicks on Flag for Publication" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="420" y="155" width="120" height="60" as="geometry" />
+        <mxCell id="gAICYdevF9UL-TdKvRgp-5" value="Data custodian validates record" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="380" y="110" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="g9a6GDuGCAHzcp2UapaC-45" value="Uses built-in validation &lt;br&gt;function to ensure &lt;br&gt;all required fields &lt;br&gt;are complete" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-15;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="270" y="40" width="50" height="70" as="geometry" />
+        <mxCell id="gAICYdevF9UL-TdKvRgp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="gAICYdevF9UL-TdKvRgp-7" target="g9a6GDuGCAHzcp2UapaC-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g9a6GDuGCAHzcp2UapaC-48" value="Data stewards will receive notification" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="620" y="100" width="120" height="80" as="geometry" />
+        <mxCell id="gAICYdevF9UL-TdKvRgp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="gAICYdevF9UL-TdKvRgp-7" target="g9a6GDuGCAHzcp2UapaC-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g9a6GDuGCAHzcp2UapaC-50" value="Data custodian clicks on Flag for Publication" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="830" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="gAICYdevF9UL-TdKvRgp-7" value="Is valid?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="390" y="290" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Enterprise Data Hub (EDH)" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="350" width="1050" height="100" as="geometry" />
+        <mxCell id="gAICYdevF9UL-TdKvRgp-12" value="Data Steward exports XML from DM Apps and imports into EDH" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry x="831.5" y="290" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Government of Canada - Open Data" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="450" width="1050" height="600" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Enterprise Data Hub (EDH)" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="550" width="1050" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Government of Canada - Open Data" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=16;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="920" width="1050" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
