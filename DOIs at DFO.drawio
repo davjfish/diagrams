@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T20:08:06.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="1t4iqEcQ6OvlEcvH_g1s" version="23.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-15T13:14:25.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="GQ8OsrjDVa3HfidONh-6" version="23.1.4" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,167 +156,195 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Proposed" id="va8rpJL-mCchYzdFWkfl">
-    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="LR8SJNoG7otzfKW4Ddba-0" />
         <mxCell id="LR8SJNoG7otzfKW4Ddba-1" parent="LR8SJNoG7otzfKW4Ddba-0" />
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-3" target="LR8SJNoG7otzfKW4Ddba-5">
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Data contributors / D&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;ata custodians&lt;/span&gt;&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
+          <mxGeometry x="32" y="40" width="1105" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-3" value="START" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="68" y="70" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-5" value="New record is created in tool" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="198" y="267.75" width="140" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="LR8SJNoG7otzfKW4Ddba-3" target="LR8SJNoG7otzfKW4Ddba-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="215" y="90" as="targetPoint" />
+            <mxPoint x="150" y="-169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-3" value="START" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="60" y="70" width="110" height="100" as="geometry" />
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-8" value="Anticipates&lt;br&gt;need for&amp;nbsp;&lt;br&gt;DOI?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#00CC00;strokeWidth=3;dashed=1;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="328" y="90" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-5" target="w0-wocRJaTt2KuMjXbTo-1">
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="LR8SJNoG7otzfKW4Ddba-5" target="zdfYsKzSLlGrODiRNqEw-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="372.5" y="-139" as="sourcePoint" />
+            <mxPoint x="767.5" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-9" value="Custodian generates draft DOI" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#00CC00;dashed=1;strokeWidth=3;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="578" y="269" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-4" value="yes" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="zdfYsKzSLlGrODiRNqEw-8" target="zdfYsKzSLlGrODiRNqEw-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1408.9920634920636" y="189.85793650793653" as="sourcePoint" />
+            <mxPoint x="1525.5" y="220.14999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-6" value="Record is &lt;br&gt;updated" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="666.75" y="75" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-7" value="no" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="zdfYsKzSLlGrODiRNqEw-8" target="zdfYsKzSLlGrODiRNqEw-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465.5" y="13" as="sourcePoint" />
+            <mxPoint x="717.5" y="18" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="zdfYsKzSLlGrODiRNqEw-9" target="zdfYsKzSLlGrODiRNqEw-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-5" value="Data custodian drafts or updates metadata record" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="290" y="75" width="145" height="95" as="geometry" />
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-15" value="Is valid?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="838" y="170" width="130" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-7" value="Data steward&amp;nbsp; receives&lt;br&gt;email notification" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="585" y="380" width="130" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-9" target="LR8SJNoG7otzfKW4Ddba-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-9" value="Data custodian clicks on Flag for Publication" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="360" y="330" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-12" target="LR8SJNoG7otzfKW4Ddba-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-12" target="LR8SJNoG7otzfKW4Ddba-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-12" value="Data custodian validates record" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="820" y="260" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-13" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-15" target="LR8SJNoG7otzfKW4Ddba-5">
-          <mxGeometry x="-0.0103" y="-25" relative="1" as="geometry">
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-13" value="no" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="LR8SJNoG7otzfKW4Ddba-15" target="zdfYsKzSLlGrODiRNqEw-6">
+          <mxGeometry x="0.1488" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-14" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-15" target="LR8SJNoG7otzfKW4Ddba-9">
-          <mxGeometry x="0.3939" y="20" relative="1" as="geometry">
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-5" value="Using the DataCite API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="544.25" y="390" width="207.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-3" value="&lt;b&gt;NOTE&lt;/b&gt;: A DOI can be drafted at any at any stage in this process" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="328" y="30" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-12" value="Record is&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;validated" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="938" y="40" width="115" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="LR8SJNoG7otzfKW4Ddba-12" target="LR8SJNoG7otzfKW4Ddba-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-11" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="LR8SJNoG7otzfKW4Ddba-12" target="LR8SJNoG7otzfKW4Ddba-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="zdfYsKzSLlGrODiRNqEw-6" target="LR8SJNoG7otzfKW4Ddba-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="723.7424242424242" y="11.75757575757575" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-9" value="Request for publication is &lt;br&gt;made" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-20">
+          <mxGeometry x="913" y="330" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-14" value="yes" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-20" source="LR8SJNoG7otzfKW4Ddba-15" target="LR8SJNoG7otzfKW4Ddba-9">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-15" value="Is valid?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="520" y="210" width="100" height="90" as="geometry" />
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-21" value="&lt;font style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;Regional Data Steward / App Administrator&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
+          <mxGeometry x="37" y="580" width="1100" height="1260" as="geometry" />
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-17" target="LR8SJNoG7otzfKW4Ddba-19">
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-17" value="XML from DM Apps imported into EDH" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="387.5" y="281" width="158.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-19" value="DFO Level I Review is conducted" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="655" y="261" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="LR8SJNoG7otzfKW4Ddba-17" target="LR8SJNoG7otzfKW4Ddba-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-17" value="XML from DM Apps imported into EDH" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="680" y="600" width="158.5" height="100" as="geometry" />
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-22" value="Record is published to OGP" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="905" y="661" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-18" value="once passed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-19" target="LR8SJNoG7otzfKW4Ddba-24">
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-23" value="END" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="405" y="740" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-24" value="Request for publication to OGP is made" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="955" y="271" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-18" value="once &lt;br&gt;passed" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="LR8SJNoG7otzfKW4Ddba-19" target="LR8SJNoG7otzfKW4Ddba-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="625" y="1080" as="targetPoint" />
+            <mxPoint x="640" y="1321" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-19" value="DFO Level I Review is conducted" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="460" y="540" width="110" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-20" value="once actioned" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-24" target="LR8SJNoG7otzfKW4Ddba-22">
+        <mxCell id="LR8SJNoG7otzfKW4Ddba-20" value="once &lt;br&gt;actioned" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="LR8SJNoG7otzfKW4Ddba-24" target="LR8SJNoG7otzfKW4Ddba-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="515" y="1080" as="sourcePoint" />
-            <mxPoint x="525" y="1070" as="targetPoint" />
+            <mxPoint x="530" y="1321" as="sourcePoint" />
+            <mxPoint x="540" y="1311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-22" value="Record is published to OGP" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="10" y="610" width="110" height="100" as="geometry" />
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-7" value="Steward evaluates suitability of &lt;br&gt;DOI" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#00CC00;dashed=1;strokeWidth=3;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="65" y="256" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-23" value="END" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="350" y="700" width="110" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="LR8SJNoG7otzfKW4Ddba-24" value="Request for publication to OGP is made" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="140" y="460" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-0" target="LR8SJNoG7otzfKW4Ddba-12">
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-14" value="yes" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-10" target="LR8SJNoG7otzfKW4Ddba-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-0" value="Custodian generates draft DOI" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#000000;dashed=1;strokeWidth=2;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="890" y="65" width="120" height="110" as="geometry" />
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-10" value="Is suitable &lt;br&gt;for DOI?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=2;dashed=1;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="195" y="441" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-2" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-1" target="LR8SJNoG7otzfKW4Ddba-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-4" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-1" target="w0-wocRJaTt2KuMjXbTo-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-1" value="Does &lt;br&gt;the custodian&lt;br&gt;&amp;nbsp;want a &lt;br&gt;DOI?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=2;dashed=1;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="650" y="75" width="140" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-3" value="&lt;b&gt;NOTE&lt;/b&gt;: A DOI can be drafted at any at any stage in this process" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="595" y="25" width="195" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-9" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="zdfYsKzSLlGrODiRNqEw-1" target="w0-wocRJaTt2KuMjXbTo-7">
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-7" target="w0-wocRJaTt2KuMjXbTo-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="540" as="sourcePoint" />
-            <mxPoint x="1019" y="880" as="targetPoint" />
+            <mxPoint x="1107.987341772152" y="951" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-7" target="w0-wocRJaTt2KuMjXbTo-10">
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-12" target="LR8SJNoG7otzfKW4Ddba-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-7" value="Steward evaluates suitability of &lt;br&gt;DOI" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#000000;dashed=1;strokeWidth=2;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="1000" y="490" width="120" height="110" as="geometry" />
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-12" value="Delete the draft DOI" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#00CC00;dashed=1;strokeWidth=3;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="440" y="471" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-13" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-10" target="w0-wocRJaTt2KuMjXbTo-12">
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-13" value="no" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-10" target="w0-wocRJaTt2KuMjXbTo-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-14" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-10" target="LR8SJNoG7otzfKW4Ddba-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-10" value="Is suitable &lt;br&gt;for DOI?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=2;dashed=1;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="980" y="690" width="140" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-12" target="LR8SJNoG7otzfKW4Ddba-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-12" value="Delete the draft DOI" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#000000;dashed=1;strokeWidth=2;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="710" y="770" width="120" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-18" target="LR8SJNoG7otzfKW4Ddba-23">
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-18" target="LR8SJNoG7otzfKW4Ddba-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="1040" as="sourcePoint" />
-            <mxPoint x="210" y="965" as="targetPoint" />
+            <mxPoint x="335" y="1040" as="sourcePoint" />
+            <mxPoint x="265" y="965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-22" target="w0-wocRJaTt2KuMjXbTo-18">
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="LR8SJNoG7otzfKW4Ddba-22" target="w0-wocRJaTt2KuMjXbTo-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="1000" as="sourcePoint" />
-            <mxPoint x="210" y="965" as="targetPoint" />
+            <mxPoint x="435" y="1000" as="sourcePoint" />
+            <mxPoint x="265" y="965" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-18" target="w0-wocRJaTt2KuMjXbTo-20">
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-18" value="Is there &lt;br&gt;a draft DOI associated with &lt;br&gt;this record?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#00CC00;strokeWidth=3;dashed=1;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="155" y="710" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-20" target="LR8SJNoG7otzfKW4Ddba-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-18" value="Is there &lt;br&gt;a draft DOI associated with &lt;br&gt;this record?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=2;dashed=1;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="100" y="790" width="160" height="160" as="geometry" />
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-20" value="Designated &quot;minter&quot; mints DOI via DM Apps" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#00CC00;dashed=1;strokeWidth=3;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="307.5" y="900" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="zdfYsKzSLlGrODiRNqEw-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-20" target="LR8SJNoG7otzfKW4Ddba-23">
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-18" target="w0-wocRJaTt2KuMjXbTo-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-20" value="Steward mints DOI via DM Apps" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#000000;dashed=1;strokeWidth=2;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="340" y="900" width="120" height="110" as="geometry" />
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-22" value="&lt;b&gt;NOTE&lt;/b&gt;: Elevated app permissions are needed in order to mint a DOI in DM Apps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="270" y="1030" width="195" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="w0-wocRJaTt2KuMjXbTo-22" value="&lt;b&gt;NOTE&lt;/b&gt;: Elevated app permissions are needed in order to mint a DOI in DM Apps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="320" y="1040" width="195" height="40" as="geometry" />
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-3" value="no" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="zdfYsKzSLlGrODiRNqEw-1" target="LR8SJNoG7otzfKW4Ddba-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zdfYsKzSLlGrODiRNqEw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-7" target="zdfYsKzSLlGrODiRNqEw-1">
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-1" value="Does record &lt;br&gt;have&lt;br&gt;draft DOI?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#00CC00;strokeWidth=3;dashed=1;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="553" y="30" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w0-wocRJaTt2KuMjXbTo-9" value="yes" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="zdfYsKzSLlGrODiRNqEw-1" target="w0-wocRJaTt2KuMjXbTo-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="740" y="440" as="sourcePoint" />
-            <mxPoint x="940" y="469" as="targetPoint" />
+            <mxPoint x="845" y="221" as="sourcePoint" />
+            <mxPoint x="1024" y="312.19047619047615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zdfYsKzSLlGrODiRNqEw-3" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="zdfYsKzSLlGrODiRNqEw-1" target="LR8SJNoG7otzfKW4Ddba-17">
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="zdfYsKzSLlGrODiRNqEw-42" target="zdfYsKzSLlGrODiRNqEw-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zdfYsKzSLlGrODiRNqEw-1" value="Is there &lt;br&gt;a draft DOI associated with &lt;br&gt;this record?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=2;dashed=1;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="790" y="380" width="160" height="160" as="geometry" />
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-42" value="Begins regional review process" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
+          <mxGeometry x="905" y="40" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-9" target="zdfYsKzSLlGrODiRNqEw-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="857" y="680" as="sourcePoint" />
+            <mxPoint x="702" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
