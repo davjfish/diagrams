@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T13:14:25.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="GQ8OsrjDVa3HfidONh-6" version="23.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-15T13:15:06.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="74-jZJ6JJZiNzJDCq0Uu" version="23.1.4" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Proposed" id="va8rpJL-mCchYzdFWkfl">
-    <mxGraphModel dx="1678" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="LR8SJNoG7otzfKW4Ddba-0" />
         <mxCell id="LR8SJNoG7otzfKW4Ddba-1" parent="LR8SJNoG7otzfKW4Ddba-0" />
@@ -326,7 +326,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zdfYsKzSLlGrODiRNqEw-1" value="Does record &lt;br&gt;have&lt;br&gt;draft DOI?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#00CC00;strokeWidth=3;dashed=1;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
-          <mxGeometry x="553" y="30" width="160" height="160" as="geometry" />
+          <mxGeometry x="605" y="30" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="w0-wocRJaTt2KuMjXbTo-9" value="yes" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="zdfYsKzSLlGrODiRNqEw-1" target="w0-wocRJaTt2KuMjXbTo-7">
           <mxGeometry relative="1" as="geometry">
@@ -338,7 +338,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zdfYsKzSLlGrODiRNqEw-42" value="Begins regional review process" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
-          <mxGeometry x="905" y="40" width="140" height="100" as="geometry" />
+          <mxGeometry x="913" y="60" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zdfYsKzSLlGrODiRNqEw-15" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="LR8SJNoG7otzfKW4Ddba-9" target="zdfYsKzSLlGrODiRNqEw-42">
           <mxGeometry relative="1" as="geometry">
