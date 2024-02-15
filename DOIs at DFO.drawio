@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T13:50:12.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Mk9p_Qz4wOvF3wETf4F2" version="23.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-15T13:53:36.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Dn5ozYd_Pj9tczs1ubRL" version="23.1.4" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -241,7 +241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zdfYsKzSLlGrODiRNqEw-21" value="&lt;font style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;Regional Data Steward / App Administrator&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="37" y="580" width="1100" height="860" as="geometry" />
+          <mxGeometry x="37" y="580" width="1100" height="760" as="geometry" />
         </mxCell>
         <mxCell id="LR8SJNoG7otzfKW4Ddba-17" value="Export XML" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
           <mxGeometry x="423" y="296.5" width="112.5" height="89" as="geometry" />
@@ -256,7 +256,7 @@
           <mxGeometry x="613" y="470" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LR8SJNoG7otzfKW4Ddba-23" value="END" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
-          <mxGeometry x="513" y="670" width="110" height="100" as="geometry" />
+          <mxGeometry x="463" y="625" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LR8SJNoG7otzfKW4Ddba-18" value="once &lt;br&gt;passed" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="LR8SJNoG7otzfKW4Ddba-19" target="zdfYsKzSLlGrODiRNqEw-49">
           <mxGeometry relative="1" as="geometry">
@@ -300,11 +300,8 @@
         <mxCell id="w0-wocRJaTt2KuMjXbTo-18" value="Does record&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;have&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;draft DOI?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#00CC00;strokeWidth=3;dashed=1;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
           <mxGeometry x="253" y="440" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zdfYsKzSLlGrODiRNqEw-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-20" target="LR8SJNoG7otzfKW4Ddba-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="w0-wocRJaTt2KuMjXbTo-20" value="Request made to have DOI minted" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#00CC00;dashed=1;strokeWidth=3;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-21">
-          <mxGeometry x="133" y="700" width="120" height="110" as="geometry" />
+          <mxGeometry x="113" y="620" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="w0-wocRJaTt2KuMjXbTo-24" value="yes" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-21" source="w0-wocRJaTt2KuMjXbTo-18" target="w0-wocRJaTt2KuMjXbTo-20">
           <mxGeometry relative="1" as="geometry" />
@@ -355,7 +352,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zdfYsKzSLlGrODiRNqEw-50" value="&lt;font style=&quot;font-size: 20px; font-weight: normal;&quot;&gt;Designated Minter&lt;/font&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="LR8SJNoG7otzfKW4Ddba-1">
-          <mxGeometry x="37" y="1470" width="200" height="200" as="geometry" />
+          <mxGeometry x="37" y="1370" width="1103" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-57" value="yes" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-50" source="zdfYsKzSLlGrODiRNqEw-52" target="zdfYsKzSLlGrODiRNqEw-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-58" value="no" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-50" source="zdfYsKzSLlGrODiRNqEw-52" target="zdfYsKzSLlGrODiRNqEw-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-52" value="Is suitable &lt;br&gt;for DOI?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#000000;strokeWidth=3;dashed=1;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-50">
+          <mxGeometry x="383" y="70" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-50" source="zdfYsKzSLlGrODiRNqEw-54" target="zdfYsKzSLlGrODiRNqEw-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-54" value="Refer to DOI Eligibility &lt;br&gt;Pre-minting&lt;br&gt;Checklist" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#00CC00;dashed=1;strokeWidth=3;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-50">
+          <mxGeometry x="93" y="80" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-53" value="Delete the draft DOI" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#00CC00;dashed=1;strokeWidth=3;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-50">
+          <mxGeometry x="733" y="180" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-56" value="Mint the draft DOI" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#dae8fc;strokeColor=#00CC00;dashed=1;strokeWidth=3;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-50">
+          <mxGeometry x="733" y="30" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-59" value="END" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="zdfYsKzSLlGrODiRNqEw-50">
+          <mxGeometry x="943" y="100" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-50" source="zdfYsKzSLlGrODiRNqEw-56" target="zdfYsKzSLlGrODiRNqEw-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="523" y="136" as="sourcePoint" />
+            <mxPoint x="743" y="104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-61" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="zdfYsKzSLlGrODiRNqEw-50" source="zdfYsKzSLlGrODiRNqEw-53" target="zdfYsKzSLlGrODiRNqEw-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="533" y="146" as="sourcePoint" />
+            <mxPoint x="753" y="114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zdfYsKzSLlGrODiRNqEw-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="LR8SJNoG7otzfKW4Ddba-1" source="w0-wocRJaTt2KuMjXbTo-20" target="zdfYsKzSLlGrODiRNqEw-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
