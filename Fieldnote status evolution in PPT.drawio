@@ -4,11 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="peULVuYx7uYCcGxrmFzm-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Evolution of&amp;nbsp; Field Note Statuses in DM Apps - PPT&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="peULVuYx7uYCcGxrmFzm-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Evolution of&amp;nbsp; Field Note Statuses in DM Apps - PPT&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="10" width="690" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="peULVuYx7uYCcGxrmFzm-3" value="New FN record is created" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="140" height="70" as="geometry" />
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-1" value="Decision&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;to&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;create&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Field Note&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;(FN).&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-2" value="Is there an&lt;div&gt;existing&amp;nbsp;&lt;/div&gt;&lt;div&gt;project&lt;/div&gt;&lt;div&gt;in PPT?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-3" value="Field note is drafted" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-4" value="Was&lt;div&gt;&amp;nbsp;drafted by project&amp;nbsp;&lt;/div&gt;&lt;div&gt;lead or admin&amp;nbsp;&lt;/div&gt;&lt;div&gt;team?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="65" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-5" value="ACTION:&amp;nbsp;&lt;div&gt;&lt;b&gt;Request Publication&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;STATUS:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &lt;b&gt;With Admin Team&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="35" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-6" value="ACTION:&amp;nbsp;&lt;div&gt;&lt;b&gt;Flag for Review by Project Lead&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;STATUS:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;With Project Lead&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="155" width="210" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-7" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;STATUS:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Draft&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
