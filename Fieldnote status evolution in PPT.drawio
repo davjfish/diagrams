@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="UTPjxnOcEQ-sJrjJlPBk">
-    <mxGraphModel dx="1426" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1133" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-16" value="Generate FN from scratch" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-25" target="U9ddc2uA0Kco6e5S1l6d-5">
           <mxGeometry relative="1" as="geometry" />
@@ -84,11 +84,8 @@
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-28" target="U9ddc2uA0Kco6e5S1l6d-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U9ddc2uA0Kco6e5S1l6d-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-28" target="U9ddc2uA0Kco6e5S1l6d-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="U9ddc2uA0Kco6e5S1l6d-28" value="Document is reviewed and finalized by&amp;nbsp;&lt;div&gt;Admin Team&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="730" width="120" height="60" as="geometry" />
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-28" value="Document is reviewed by&lt;div&gt;Admin Team&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-30" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-32" target="U9ddc2uA0Kco6e5S1l6d-6">
           <mxGeometry relative="1" as="geometry">
@@ -101,10 +98,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-32" value="Additional&amp;nbsp;&lt;div&gt;&amp;nbsp;modifications&lt;/div&gt;&lt;div&gt;&amp;nbsp;needed by project&lt;/div&gt;&lt;div&gt;&amp;nbsp;lead?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="85" y="540" width="125" height="110" as="geometry" />
+          <mxGeometry x="105" y="520" width="125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-98" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-35" target="U9ddc2uA0Kco6e5S1l6d-96">
+          <mxGeometry x="-0.3" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-35" value="Are&amp;nbsp;&lt;div&gt;professional translation services required?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="180" y="690" width="125" height="110" as="geometry" />
+          <mxGeometry x="60" y="680" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-36" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" target="U9ddc2uA0Kco6e5S1l6d-37" source="U9ddc2uA0Kco6e5S1l6d-35">
           <mxGeometry relative="1" as="geometry">
@@ -118,16 +120,13 @@
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-37" value="CREATE ACTION:&amp;nbsp;&lt;div&gt;&lt;b&gt;Flag for Translation&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;BY:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Admin Team&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;RESULTING STATUS:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Translations Pending&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="115" y="850" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="U9ddc2uA0Kco6e5S1l6d-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-38" target="U9ddc2uA0Kco6e5S1l6d-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-38" target="U9ddc2uA0Kco6e5S1l6d-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="900" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-38" value="Record is translated" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="850" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="U9ddc2uA0Kco6e5S1l6d-43" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-41" target="U9ddc2uA0Kco6e5S1l6d-28">
-          <mxGeometry x="0.0857" y="-20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="350" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-48" target="U9ddc2uA0Kco6e5S1l6d-50">
           <mxGeometry relative="1" as="geometry">
@@ -135,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-41" value="Is the FN&amp;nbsp;&lt;div&gt;compliance score&lt;/div&gt;&lt;div&gt;&amp;nbsp;at 100%&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="680" y="825" width="120" height="110" as="geometry" />
+          <mxGeometry x="790" y="855" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-47" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-41" target="U9ddc2uA0Kco6e5S1l6d-46">
           <mxGeometry relative="1" as="geometry">
@@ -181,10 +180,10 @@
             <mxPoint x="180" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U9ddc2uA0Kco6e5S1l6d-58" value="Data will be staged in the pre-production environment" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1180" width="155" height="80" as="geometry" />
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-58" value="Data will be staged in the pre-production environment by CDOS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1180" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U9ddc2uA0Kco6e5S1l6d-61" value="FN records reviewed by Admin Team" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-61" value="FN records proofed by Science" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-61" target="U9ddc2uA0Kco6e5S1l6d-62">
@@ -194,7 +193,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-62" value="Are we&amp;nbsp;&lt;div&gt;happy with how everything&lt;/div&gt;&lt;div&gt;&amp;nbsp;looks?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1120" width="120" height="110" as="geometry" />
+          <mxGeometry x="360" y="1150" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-65" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-62" target="U9ddc2uA0Kco6e5S1l6d-64">
           <mxGeometry relative="1" as="geometry">
@@ -298,6 +297,12 @@
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-90" value="CREATE ACTION:&amp;nbsp;&lt;div&gt;&lt;b&gt;Archive&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;BY:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Admin Team&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;RESULTING STATUS:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Archived&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="185" y="1930" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-96" target="U9ddc2uA0Kco6e5S1l6d-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-96" value="Document is finalized by&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Admin Team&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
