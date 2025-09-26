@@ -268,13 +268,22 @@
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-87" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-84" target="U9ddc2uA0Kco6e5S1l6d-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="U9ddc2uA0Kco6e5S1l6d-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-84">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="U9ddc2uA0Kco6e5S1l6d-93" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.95;exitY=0.555;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-84" target="U9ddc2uA0Kco6e5S1l6d-25">
+          <mxGeometry x="-0.8628" y="25" relative="1" as="geometry">
             <mxPoint x="820" y="1620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="669" y="1785" />
+              <mxPoint x="810" y="1785" />
+              <mxPoint x="810" y="1090" />
+              <mxPoint x="790" y="1090" />
+              <mxPoint x="790" y="670" />
+              <mxPoint x="438" y="670" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-84" value="Is the field&amp;nbsp;&lt;div&gt;operation still&amp;nbsp;&lt;/div&gt;&lt;div&gt;planned?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1730" width="120" height="110" as="geometry" />
+          <mxGeometry x="555" y="1740" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-86" target="U9ddc2uA0Kco6e5S1l6d-90">
           <mxGeometry relative="1" as="geometry">
@@ -282,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-86" value="CREATE ACTION:&amp;nbsp;&lt;div&gt;&lt;b&gt;Request archiving&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;BY:&lt;/div&gt;&lt;div&gt;&lt;b&gt;Project Lead&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;RESULTING STATUS:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Pending Archiving&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#1534FF);fontColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1890" width="170" height="130" as="geometry" />
+          <mxGeometry x="600" y="1910" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="U9ddc2uA0Kco6e5S1l6d-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;exitX=-0.006;exitY=0.454;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U9ddc2uA0Kco6e5S1l6d-90" target="U9ddc2uA0Kco6e5S1l6d-80">
           <mxGeometry relative="1" as="geometry" />
